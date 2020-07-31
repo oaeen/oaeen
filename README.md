@@ -20,11 +20,11 @@
 
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/6b2fa96f7c346c310d0e65c495338239" target="_blank">📊 每周工作报告</a>
+#### <a href="https://gist.github.com/6b2fa96f7c346c310d0e65c495338239" target="_blank">📊 Weekly development breakdown</a>
 ```text
 Still Gathering Statistics...
 ```
-<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 
