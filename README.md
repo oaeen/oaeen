@@ -2,7 +2,7 @@
 
 #### About me
 
-- 🔭 I’m  a junior in [CUG](http://www.cug.edu.cn/) now.
+- 🔭 I’m  a senior in [CUG](http://www.cug.edu.cn/) now.
 - 🌱 I’m currently learning [tensorflow](https://www.tensorflow.org/) and [docker](https://www.docker.com/).
 - 🛩️ How to reach me: [@oaeen](https://t.me/oaeen).
 - 💬 Ask me about anything.
