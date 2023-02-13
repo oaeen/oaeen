@@ -12,17 +12,7 @@
 ![Skills](https://skillicons.dev/icons?i=py,go,cpp,java,ts,md,docker,cloudflare,gcp,git,linux,mysql,stackoverflow,vscode,qt,pytorch,tensorflow)
 
 
-
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/6b2fa96f7c346c310d0e65c495338239" target="_blank">📊 Weekly development breakdown</a>
-```text
-Other 🕓 1h53m █████████████████████████████████100.0%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
-
-
-
+#### Stats
 ![oaeen GitHub statistic](https://github-readme-stats.vercel.app/api?username=oaeen&show_icons=true)
 
 ![Dino](https://github.com/oaeen/oaeen/blob/master/dino.gif)
