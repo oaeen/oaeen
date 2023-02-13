@@ -2,20 +2,14 @@
 
 #### About me
 
-- 🔭 I’m  a senior in [CUG](http://www.cug.edu.cn/) now.
-- 🌱 I’m currently learning [tensorflow](https://www.tensorflow.org/) and [docker](https://www.docker.com/).
+- 🔭 I’m currently studying at [CUG](http://www.cug.edu.cn/) now.
+- 💕 I love open source.
 - 🛩️ How to reach me: [@oaeen](https://t.me/oaeen).
 - 💬 Ask me about anything.
 
-#### Platform&Tools
+#### Skills
 
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/Ubuntu-20.04LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/-Tensorflow-fa8c35?style=flat-square&logo=tensorflow&logoColor=ffffff)](https://www.tensorflow.org/)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+![Skills](https://skillicons.dev/icons?i=py,go,cpp,java,ts,md,docker,cloudflare,gcp,git,linux,mysql,stackoverflow,vscode,qt,pytorch,tensorflow)
 
 
 
